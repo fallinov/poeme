@@ -4,3 +4,4 @@
 * bleu
 * jaune
 * rose
+* menthe
