@@ -4,5 +4,4 @@
 * bleu
 * jaune
 * rose
-* chocolat
 * menthe
