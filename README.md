@@ -3,5 +3,4 @@
 * vert
 * bleu
 * jaune
-* violet
 * rose
